@@ -1,0 +1,26 @@
+{
+  "name": "dr-theopolis",
+  "version": "0.0.0",
+  "description": "sentient drone controller",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/roylines/dr-theopolis.git"
+  },
+  "keywords": [
+    "drone"
+  ],
+  "author": "Roy Lines",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/roylines/dr-theopolis/issues"
+  },
+  "homepage": "https://github.com/roylines/dr-theopolis",
+  "dependencies": {
+    "cylon": "^0.13.3",
+    "cylon-ardrone": "^0.9.0"
+  }
+}
