@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/roylines/dr-theopolis",
   "dependencies": {
-    "cylon": "^0.13.3",
+    "cylon": "0.22.0",
     "cylon-ardrone": "^0.9.0"
   }
 }
